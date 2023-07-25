@@ -1,10 +1,9 @@
 * parsnip
 
+Monadic parser combinator library
 
-
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~shunter/parsnip   |
-| commit  |   |
-| systems | parsnip |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------|
+| source  | git:https://git.sr.ht/~shunter/parsnip |
+| commit  | ffccc19f                               |
+| systems | parsnip                                |
+|---------+----------------------------------------|
