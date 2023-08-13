@@ -2,8 +2,9 @@
 
 Monadic parser combinator library
 
+
 |---------+----------------------------------------|
 | source  | git:https://git.sr.ht/~shunter/parsnip |
-| commit  | ffccc19f                               |
+| commit  | ffccc19                                |
 | systems | parsnip                                |
 |---------+----------------------------------------|
